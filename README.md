@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi, I'm Daniel!
 
+- 🖥 I've been programming for five years with the last three years being focused on web development
+- 🔨 I'm currently working on Collaboratr, a social and professional networking app for musicians and content creators (stay tuned for more info soon)
+- 💬 Ask me why I believe the web is the future
+- 📹 You can watch me on YouTube: [LRKN Media](https://www.youtube.com/channel/UCwrVDkN2bHBJZU89mjAw00w)
 <!--
 **realDanielJLarkin/realdanieljlarkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
